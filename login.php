@@ -9,6 +9,8 @@
     Nama
     <input type="text">
     <br/>
+    <input type="password">
+    <br />
     <button>Login</button>
   </form>
 </body>
